@@ -1,0 +1,4 @@
+.mypy*
+build
+dist
+*.spec
